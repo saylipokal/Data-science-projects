@@ -1,6 +1,6 @@
 # Data-science-projects
 
-## Employee-Churn-Classification
+## Employee-churn-classification
 
 Objective: To predict employee attrition and explore potential causes
 
