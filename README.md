@@ -2,7 +2,7 @@
 
 ## Employee-churn-classification
 
-Objective: To predict employee attrition and to identify potential reasons for attrition
+Objective: To predict employee attrition and to identify potential reasons for attrition.
 
 Dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download
 
@@ -13,8 +13,8 @@ The dataset is imbalanced in nature, directly implementing ML models may affect 
 1. Implemented under-sampling/over-sampling techniques to deal with the imbalance data. Compared the performance using precision and ROC curve.
 
 2. Built a pipeline to implement all the steps in the process:
-   -  Scaling/normalizing the data 
-   -  Implementing a sampling algorithm with a specific sampling rate
+   -  Scaling/normalizing the data. 
+   -  Implementing a sampling algorithm with a specific sampling rate.
    -  Implementing a classification method.
 
 3. Compared the different sampling techniques and different classification algorithms to pick the best approach. 
