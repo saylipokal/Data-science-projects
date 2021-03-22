@@ -2,7 +2,7 @@
 
 ## Employee-churn-classification
 
-Objective: To predict employee attrition and explore potential causes
+Objective: To predict employee attrition and to identify potential reasons for attrition
 
 Dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download
 
